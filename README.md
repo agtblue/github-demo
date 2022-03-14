@@ -4,3 +4,6 @@ basic git workflow
 #change 3
 #change 4
 
+
+#copy right notice
+
